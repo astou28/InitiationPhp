@@ -1,0 +1,65 @@
+body{
+    background-color: gainsboro;
+}
+.couleurBleu{
+    background-color: #2196f3;
+    height: 400px;
+}
+.col-md-8{
+    background-color: #ffffff;
+    position: relative;
+    left: -10%;
+    top: 150px;
+    height: 450px;
+}
+.etape3{
+    background-color: #ffffff;
+    position: relative;
+    left: -10%;
+    top: 150px;
+    height: 450px;
+   
+}
+.atelier{
+    color: #ffffff;
+    font-size: 25px !important;
+    font-family: 'open-sans' !important;
+    position: relative;
+    left: 16%;
+    top: 50px;
+}
+h3{
+        color: #000;
+        font-size: 25px !important;
+        font-family: 'open-sans' !important;
+}
+.atelier1{
+    color: #ffffff;
+    font-size: 25px !important;
+    font-family: 'open-sans' !important;
+    position: relative;
+    left: 20%;
+    top: 50px;
+}
+.mag{
+    padding-left: 12%;
+}
+.un{
+    background-color: #2196f3;
+    height: 400px;
+}
+.deux{
+    background-color: #ffffff;
+    position: relative;
+    width: 800px;
+    left: -15%;
+    top: 150px;
+    height: 450px;
+}
+.mag1{
+    margin-left: 12%;
+}
+label{
+    font-size: 18px;
+    font-family: 'open-sans';
+}
